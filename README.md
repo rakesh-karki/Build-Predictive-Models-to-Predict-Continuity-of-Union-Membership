@@ -20,16 +20,16 @@ The "UDSU_train.csv" table will be used to train, test and validate the models w
 - **LeftUnion:** still a union member; or no longer a member (label)    
 
 **Analysis Flow:**
-- **Part A: Set Up the Environment:**
-- **Part B: Load the Data:**  
+- **Part A: Set up the environment:**
+- **Part B: Load the data:**  
 - **Part C: Explore the data:**  
-- **Part D: Data Cleaning:**  
+- **Part D: Data cleaning:**  
 - **Part E: Plot the data:**  
-- **Part F: Data Standardization / Normalization:**  
-- **Part G: PCA Analysis:**  
-- **Part H: Build Logistic Regression Model:**  
-- **Part I: Build the Decision tree:**  
-- **Part J: Build the Random forest model:**  
-- **Part K: Build Support Vector Machine (SVM) model:**  
-- **Part L: Build Neural networks:**  
+- **Part F: Data standardization / Normalization:**  
+- **Part G: PCA analysis:**  
+- **Part H: Build logistic regression model:**  
+- **Part I: Build the decision tree:**  
+- **Part J: Build the random forest model:**  
+- **Part K: Build the support vector machine (SVM):**  
+- **Part L: Build the neural networks:**  
 - **Part M: Identify the best predictive model and predict the label:**
