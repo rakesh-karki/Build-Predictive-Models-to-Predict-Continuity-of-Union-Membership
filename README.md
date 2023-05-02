@@ -23,7 +23,7 @@ The "UDSU_train.csv" table will be used to train, test and validate the models w
 - **Part A: Set up the environment:**
 - **Part B: Load the data:**  
 - **Part C: Explore the data:**  
-- **Part D: Data cleaning:**  
+- **Part D: Clean the Data:**  
 - **Part E: Plot the data:**  
 - **Part F: Data standardization / Normalization:**  
 - **Part G: PCA analysis:**  
