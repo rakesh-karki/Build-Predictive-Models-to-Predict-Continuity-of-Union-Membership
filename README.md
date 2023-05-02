@@ -1,5 +1,5 @@
 # Build Predictive Models to Predict Continuity of Union Membership
-In this project, I will use a hypothetical trade union (UDSU) data to build predictive models which will be used to predict whether a person will remain in the union or not.       
+In this project, I will use a hypothetical trade union (UDSU) data to build predictive models that can predict whether a person will remain in the union or not.       
 There are two tables: **"UDSU_train.csv"** and **"UDSU_toPredict.csv"**. The "UDSU_train.csv" table is to train, test and validate the models while "UDSU_toPredict.csv" has the informaion of potential member to be evaluated for continuity of union membership. 
 
 **The tables contains following variables:**    
