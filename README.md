@@ -11,7 +11,7 @@ The "UDSU_train.csv" table will be used to train, test and validate the models w
 - **MonthsInUnion:** how many months the member has been a Union member  
 - **ContinuingEd:** if the member is continuing education  
 - **Feature A, B, C, D, E, F:** fictitious features  
-- **Connectivity:** member's inernet connectivity  
+- **Connectivity:** member's internet connectivity  
 - **DuesFrequency:** union fees pay frequency  
 - **PaperlessBill:** if the member receives paperless bill  
 - **PaymentMethod:** method of union due payment  
