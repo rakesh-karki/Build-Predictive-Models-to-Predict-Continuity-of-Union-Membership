@@ -20,7 +20,7 @@ The "UDSU_train.csv" table will be used to train, test and validate the models w
 - **LeftUnion:** still a union member; or no longer a member (label)    
 
 **Analysis Flow:**
-- **Part A: Set Up Environment:**
+- **Part A: Set Up the Environment:**
 - **Part B: Load the Data:**  
 - **Part C: Explore the data:**  
 - **Part D: Data Cleaning:**  
