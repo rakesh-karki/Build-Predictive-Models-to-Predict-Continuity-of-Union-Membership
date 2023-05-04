@@ -4,7 +4,7 @@ The "UDSU_train.csv" table will be used to train, test and validate the models w
 
 **The tables contains the following variables:**    
 - **DS_ID:** member ID number  
-- **gender:** member sex  
+- **gender:** member gender  
 - **management:** if the member holds management position  
 - **USACitizen:** if the member is a USA citizen  
 - **Married:** if the member is married  
